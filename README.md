@@ -18,7 +18,7 @@
 
 <br/>
 
-<!-- Tentang Aku & Animasi Cewek Lo-Fi Estetik -->
+<!-- Tentang Aku & Animasi Cewek Anime di Depan Komputer/Laptop -->
 <table>
   <tr>
     <td width="58%" valign="top">
@@ -41,7 +41,8 @@
       </p>
     </td>
     <td width="42%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="270" alt="Lo-fi Girl Coding Animation" />
+      <!-- GIF Animasi Cewek Anime Lofi di Depan Laptop/Meja Belajar -->
+      <img src="https://media1.tenor.com/m/A8023kH09pEAAAAC/lofi-girl-study.gif" width="280" alt="Anime Girl at Computer" />
     </td>
   </tr>
 </table>
@@ -58,13 +59,13 @@
 
 <br/>
 
-<!-- Sosial Media / Kontak -->
+<!-- Sosial Media / Kontak (1 Tombol Discord Langsung Masuk ke Akun) -->
 <div align="center">
   <h3>🌐 Temukan Aku Di</h3>
   <a href="https://instagram.com/__nbhit4khilla" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/123456789012345678" target="_blank">
+  <a href="https://discord.com/users/GANTI_DENGAN_ID_DISCORD_KAMU" target="_blank">
     <img src="https://img.shields.io/badge/Discord-kilaastarr__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:nabhitaakhilla@gmail.com">
