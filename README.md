@@ -1,4 +1,4 @@
-<!-- Header dengan Animasi Wave & Estetik -->
+<!-- Header Estetik -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="38px" />
   <h1>Hai, aku Kila! ✨</h1>
@@ -13,39 +13,41 @@
   </p>
 </div>
 
-<!-- Garis Pembatas Animasi Pelangi Pastel -->
+<!-- Garis Pembatas Animasi Pastel -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<!-- Tentang Aku & Animasi Cewek Anime di Depan Komputer/Laptop -->
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h3>🌸 Tentang Aku</h3>
-      <ul>
-        <li>🎓 Mahasiswa <b>Sistem Informasi</b></li>
-        <li>🎨 Fokus di <b>UI/UX Design</b> & <b>Web/App Development</b></li>
-        <li>🎮 Lagi suka main <i>Roblox, Heartopia,</i> & <i>Minecraft</i></li>
-        <li>✨ Suka bikin proyek digital yang estetik, interaktif, & fungsional</li>
-      </ul>
-      <br/>
-      <h3>🛠️ Desain & Tech Stack</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      </p>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <!-- GIF Animasi Cewek Anime Lofi di Depan Laptop/Meja Belajar -->
-      <img src="https://media1.tenor.com/m/A8023kH09pEAAAAC/lofi-girl-study.gif" width="280" alt="Anime Girl at Computer" />
-    </td>
-  </tr>
-</table>
+<!-- Animasi Cewek Anime Lofi di Depan Komputer (100% Muncul dari Server GitHub) -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="320" alt="Anime Girl Coding" />
+</div>
+
+<br/>
+
+<!-- Tentang Aku (Satu Kolom Rapi di Tengah) -->
+<div align="center">
+  <h3>🌸 Tentang Aku</h3>
+  <p>
+    🎓 Mahasiswa <b>Sistem Informasi</b><br/>
+    🎨 Fokus di <b>UI/UX Design</b> & <b>Web/App Development</b><br/>
+    🎮 Lagi suka main <i>Roblox, Heartopia,</i> & <i>Minecraft</i><br/>
+    ✨ Suka bikin proyek digital yang estetik, interaktif, & fungsional
+  </p>
+</div>
+
+<br/>
+
+<!-- Desain & Tech Stack -->
+<div align="center">
+  <h3>🛠️ Desain & Tech Stack</h3>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 <br/>
 
@@ -59,14 +61,14 @@
 
 <br/>
 
-<!-- Sosial Media / Kontak (1 Tombol Discord Langsung Masuk ke Akun) -->
+<!-- Sosial Media / Kontak (Simpel & Seragam) -->
 <div align="center">
   <h3>🌐 Temukan Aku Di</h3>
   <a href="https://instagram.com/__nbhit4khilla" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.com/users/GANTI_DENGAN_ID_DISCORD_KAMU" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-kilaastarr__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="mailto:nabhitaakhilla@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
