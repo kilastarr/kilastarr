@@ -1,15 +1,18 @@
-<!-- Banner Header dengan Animasi Typing -->
+<!-- Header Teks Estetik (Anti Broken Image) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=200§ion=header&text=Hai,%20aku%20Kila!%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20Sistem%20Informasi%20%7C%20UI/UX%20%26%20Creative%20Tech&descAlignY=60&descSize=16" width="100%" />
+  <h1>✨ Hai, aku Kila! 👋</h1>
+  <p>
+    <b>Mahasiswa Sistem Informasi & Pemikir Kreatif</b> 💫<br/>
+    <i>Menjelajahi Desain UI/UX, Arsitektur Sistem, & Kreativitas Digital</i>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/UI%2FUX_Designer-F472B6?style=flat-square&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/System_Analyst-818CF8?style=flat-square&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Creative_Tech-34D399?style=flat-square&logo=sparkles&logoColor=white" />
+  </p>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A882DD¢er=true&vCenter=true&width=500&lines=Menjelajahi+Desain+UI%2FUX+%F0%9F%8E%A8;Membangun+Arsitektur+Sistem+%F0%9F%92%BB;Kreativitas+Digital+%26+Game+Dev+%F0%9F%8E%AE" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
+<hr/>
 
 <!-- Tentang Saya & Tech Stack (Layout 2 Kolom Rapi) -->
 <table>
@@ -39,21 +42,12 @@
 
 <br/>
 
-<!-- Game Favorit dengan Gaya Pill/Soft Badge -->
+<!-- Game Favorit -->
 <div align="center">
   <h3>🎮 Game yang Aku Mainkan</h3>
   <img src="https://img.shields.io/badge/Roblox-111827?style=for-the-badge&logo=roblox&logoColor=white" />
   <img src="https://img.shields.io/badge/Heartopia-FFB6C1?style=for-the-badge&logo=nintendo-switch&logoColor=333333" />
   <img src="https://img.shields.io/badge/Minecraft-4CAF50?style=for-the-badge&logo=minecraft&logoColor=white" />
-</div>
-
-<br/>
-
-<!-- Statistik GitHub Estetik (Tema Pastel/Soft) -->
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kilastarr&show_icons=true&theme=pastel&hide_border=true&bg_color=FAFAFA" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilastarr&layout=compact&theme=pastel&hide_border=true&bg_color=FAFAFA" />
 </div>
 
 <br/>
@@ -69,7 +63,8 @@
   </a>
 </div>
 
-<!-- Footer Gelombang -->
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,19,20,24&height=100§ion=footer" width="100%" />
+  <sub>✨ Dibuat dengan kreativitas oleh <b>Kila</b> • 2026 ✨</sub>
 </div>
