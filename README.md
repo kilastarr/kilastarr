@@ -18,10 +18,10 @@
 
 <br/>
 
-<!-- Tentang Aku & Animasi Coding Lucu -->
+<!-- Tentang Aku & Animasi Coding Cewek Imut -->
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="58%" valign="top">
       <h3>🌸 Tentang Aku</h3>
       <ul>
         <li>🎓 Mahasiswa <b>Sistem Informasi</b></li>
@@ -40,8 +40,9 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       </p>
     </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Coding Animation" />
+    <td width="42%" align="center" valign="middle">
+      <!-- Animasi Cewek Coding Estetik yang Baru -->
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k4dnF2bWszcmY5Z2s1c3YyeXp5cmJ6bmtmeDhhcHJzYTB3cGtybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfZ2lmYnkmdXN0PTE3MDkxNTUzMjMmZ2lmX2lkPXFnUVVHZ0FDM1BmdjY4N3FQQyZjdD1z/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Girl Animation" />
     </td>
   </tr>
 </table>
@@ -58,13 +59,16 @@
 
 <br/>
 
-<!-- Sosial Media / Kontak (Sudah Termasuk Discord) -->
+<!-- Sosial Media / Kontak (Discord Bisa Diklik!) -->
 <div align="center">
   <h3>🌐 Temukan Aku Di</h3>
   <a href="https://instagram.com/__nbhit4khilla" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-kilaastarr__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <!-- GANTI ANGKA DI BAWAH INI DENGAN USER ID DISCORD KAMU BIAR BISA DIKLIK -->
+  <a href="https://discord.com/users/123456789012345678" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-kilaastarr__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
   <a href="mailto:nabhitaakhilla@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
