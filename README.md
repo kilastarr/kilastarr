@@ -18,14 +18,14 @@
 
 <br/>
 
-<!-- Animasi Cewek Anime Lofi di Depan Komputer (100% Muncul dari Server GitHub) -->
+<!-- Animasi Cewek Anime Lofi di Depan Laptop/Komputer -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="320" alt="Anime Girl Coding" />
+  <img src="https://raw.githubusercontent.com/tarunclub/tarunclub/main/assets/lofi-girl.gif" width="320" alt="Anime Girl Coding" />
 </div>
 
 <br/>
 
-<!-- Tentang Aku (Satu Kolom Rapi di Tengah) -->
+<!-- Tentang Aku -->
 <div align="center">
   <h3>🌸 Tentang Aku</h3>
   <p>
@@ -61,7 +61,7 @@
 
 <br/>
 
-<!-- Sosial Media / Kontak (Simpel & Seragam) -->
+<!-- Sosial Media / Kontak -->
 <div align="center">
   <h3>🌐 Temukan Aku Di</h3>
   <a href="https://instagram.com/__nbhit4khilla" target="_blank">
