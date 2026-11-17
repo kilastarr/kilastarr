@@ -18,7 +18,7 @@
 
 <br/>
 
-<!-- Tentang Aku & Animasi Coding Cewek Imut -->
+<!-- Tentang Aku & Animasi Cewek Lo-Fi Estetik -->
 <table>
   <tr>
     <td width="58%" valign="top">
@@ -41,8 +41,7 @@
       </p>
     </td>
     <td width="42%" align="center" valign="middle">
-      <!-- Animasi Cewek Coding Estetik yang Baru -->
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k4dnF2bWszcmY5Z2s1c3YyeXp5cmJ6bmtmeDhhcHJzYTB3cGtybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfZ2lmYnkmdXN0PTE3MDkxNTUzMjMmZ2lmX2lkPXFnUVVHZ0FDM1BmdjY4N3FQQyZjdD1z/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Girl Animation" />
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="270" alt="Lo-fi Girl Coding Animation" />
     </td>
   </tr>
 </table>
@@ -59,13 +58,12 @@
 
 <br/>
 
-<!-- Sosial Media / Kontak (Discord Bisa Diklik!) -->
+<!-- Sosial Media / Kontak -->
 <div align="center">
   <h3>🌐 Temukan Aku Di</h3>
   <a href="https://instagram.com/__nbhit4khilla" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <!-- GANTI ANGKA DI BAWAH INI DENGAN USER ID DISCORD KAMU BIAR BISA DIKLIK -->
   <a href="https://discord.com/users/123456789012345678" target="_blank">
     <img src="https://img.shields.io/badge/Discord-kilaastarr__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
